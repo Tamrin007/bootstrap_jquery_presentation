@@ -500,7 +500,7 @@ a(href="#") リンク
 #### Sass, LESS
 
 - CSS でプログラミングの様に入れ子構造が書けたり、変数が使えたり
-- Bootstrap はSassで書かれていた（4 からはLESS）
+- Bootstrap はLESSで書かれていた（4 からはSass）
 
 
 - CSS
